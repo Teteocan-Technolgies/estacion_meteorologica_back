@@ -1,0 +1,794 @@
+[
+  {
+    "Fecha": "2025-06-24T19:46:11-06:00",
+    "entry_id": 1,
+    "Temperatura": 18.6,
+    "Humedad": 87
+  },
+  {
+    "Fecha": "2025-06-24T19:53:36-06:00",
+    "entry_id": 2,
+    "Temperatura": 18.6,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-24T19:53:53-06:00",
+    "entry_id": 3,
+    "Temperatura": 18.5,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-24T19:54:09-06:00",
+    "entry_id": 4,
+    "Temperatura": 18.5,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-24T19:54:26-06:00",
+    "entry_id": 5,
+    "Temperatura": 18.5,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-24T19:54:43-06:00",
+    "entry_id": 6,
+    "Temperatura": 18.5,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-24T19:55:00-06:00",
+    "entry_id": 7,
+    "Temperatura": 18.5,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-24T19:55:16-06:00",
+    "entry_id": 8,
+    "Temperatura": 18.5,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-24T19:55:33-06:00",
+    "entry_id": 9,
+    "Temperatura": 18.5,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-24T19:55:50-06:00",
+    "entry_id": 10,
+    "Temperatura": 18.5,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-24T19:56:06-06:00",
+    "entry_id": 11,
+    "Temperatura": 18.5,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-24T19:56:23-06:00",
+    "entry_id": 12,
+    "Temperatura": 18.5,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-24T19:56:40-06:00",
+    "entry_id": 13,
+    "Temperatura": 18.5,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-24T19:56:56-06:00",
+    "entry_id": 14,
+    "Temperatura": 18.6,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-24T19:57:13-06:00",
+    "entry_id": 15,
+    "Temperatura": 18.5,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-24T19:57:30-06:00",
+    "entry_id": 16,
+    "Temperatura": 18.6,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T19:57:46-06:00",
+    "entry_id": 17,
+    "Temperatura": 18.5,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T19:58:03-06:00",
+    "entry_id": 18,
+    "Temperatura": 18.5,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-24T19:58:20-06:00",
+    "entry_id": 19,
+    "Temperatura": 18.4,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T19:58:37-06:00",
+    "entry_id": 20,
+    "Temperatura": 18.5,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T19:58:53-06:00",
+    "entry_id": 21,
+    "Temperatura": 18.5,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T19:59:10-06:00",
+    "entry_id": 22,
+    "Temperatura": 18.5,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T19:59:26-06:00",
+    "entry_id": 23,
+    "Temperatura": 18.5,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T19:59:43-06:00",
+    "entry_id": 24,
+    "Temperatura": 18.4,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T20:00:00-06:00",
+    "entry_id": 25,
+    "Temperatura": 18.6,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T20:00:33-06:00",
+    "entry_id": 26,
+    "Temperatura": 18.5,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T20:00:50-06:00",
+    "entry_id": 27,
+    "Temperatura": 18.5,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T20:01:07-06:00",
+    "entry_id": 28,
+    "Temperatura": 18.5,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T20:01:23-06:00",
+    "entry_id": 29,
+    "Temperatura": 18.5,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T20:01:40-06:00",
+    "entry_id": 30,
+    "Temperatura": 18.6,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T20:01:57-06:00",
+    "entry_id": 31,
+    "Temperatura": 18.5,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T20:02:14-06:00",
+    "entry_id": 32,
+    "Temperatura": 18.5,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T20:02:31-06:00",
+    "entry_id": 33,
+    "Temperatura": 18.5,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T20:02:47-06:00",
+    "entry_id": 34,
+    "Temperatura": 18.4,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T20:03:04-06:00",
+    "entry_id": 35,
+    "Temperatura": 18.5,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T20:03:21-06:00",
+    "entry_id": 36,
+    "Temperatura": 18.4,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T20:03:38-06:00",
+    "entry_id": 37,
+    "Temperatura": 18.5,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T20:03:55-06:00",
+    "entry_id": 38,
+    "Temperatura": 18.5,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T20:04:11-06:00",
+    "entry_id": 39,
+    "Temperatura": 18.4,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T20:04:28-06:00",
+    "entry_id": 40,
+    "Temperatura": 18.4,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T20:04:45-06:00",
+    "entry_id": 41,
+    "Temperatura": 18.4,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T20:05:02-06:00",
+    "entry_id": 42,
+    "Temperatura": 18.4,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T20:05:19-06:00",
+    "entry_id": 43,
+    "Temperatura": 18.5,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-24T20:05:50-06:00",
+    "entry_id": 44,
+    "Temperatura": 18.5,
+    "Humedad": 90
+  },
+  {
+    "Fecha": "2025-06-25T19:46:11-06:00",
+    "entry_id": 45,
+    "Temperatura": 18.7,
+    "Humedad": 86
+  },
+  {
+    "Fecha": "2025-06-25T19:53:36-06:00",
+    "entry_id": 46,
+    "Temperatura": 18.7,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-25T19:53:53-06:00",
+    "entry_id": 47,
+    "Temperatura": 18.6,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-25T19:54:09-06:00",
+    "entry_id": 48,
+    "Temperatura": 18.6,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-25T19:54:26-06:00",
+    "entry_id": 49,
+    "Temperatura": 18.6,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-25T19:54:43-06:00",
+    "entry_id": 50,
+    "Temperatura": 18.6,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-25T19:55:00-06:00",
+    "entry_id": 51,
+    "Temperatura": 18.6,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-25T19:55:16-06:00",
+    "entry_id": 52,
+    "Temperatura": 18.6,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-25T19:55:33-06:00",
+    "entry_id": 53,
+    "Temperatura": 18.6,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-25T19:55:50-06:00",
+    "entry_id": 54,
+    "Temperatura": 18.6,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-25T19:56:06-06:00",
+    "entry_id": 55,
+    "Temperatura": 18.6,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-25T19:56:23-06:00",
+    "entry_id": 56,
+    "Temperatura": 18.6,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-25T19:56:40-06:00",
+    "entry_id": 57,
+    "Temperatura": 18.6,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-25T19:56:56-06:00",
+    "entry_id": 58,
+    "Temperatura": 18.7,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-25T19:57:13-06:00",
+    "entry_id": 59,
+    "Temperatura": 18.6,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-25T19:57:30-06:00",
+    "entry_id": 60,
+    "Temperatura": 18.7,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T19:57:46-06:00",
+    "entry_id": 61,
+    "Temperatura": 18.6,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T19:58:03-06:00",
+    "entry_id": 62,
+    "Temperatura": 18.6,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-25T19:58:20-06:00",
+    "entry_id": 63,
+    "Temperatura": 18.5,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T19:58:37-06:00",
+    "entry_id": 64,
+    "Temperatura": 18.6,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T19:58:53-06:00",
+    "entry_id": 65,
+    "Temperatura": 18.6,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T19:59:10-06:00",
+    "entry_id": 66,
+    "Temperatura": 18.6,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T19:59:26-06:00",
+    "entry_id": 67,
+    "Temperatura": 18.6,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T19:59:43-06:00",
+    "entry_id": 68,
+    "Temperatura": 18.5,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T20:00:00-06:00",
+    "entry_id": 69,
+    "Temperatura": 18.7,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T20:00:33-06:00",
+    "entry_id": 70,
+    "Temperatura": 18.6,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T20:00:50-06:00",
+    "entry_id": 71,
+    "Temperatura": 18.6,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T20:01:07-06:00",
+    "entry_id": 72,
+    "Temperatura": 18.6,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T20:01:23-06:00",
+    "entry_id": 73,
+    "Temperatura": 18.6,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T20:01:40-06:00",
+    "entry_id": 74,
+    "Temperatura": 18.7,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T20:01:57-06:00",
+    "entry_id": 75,
+    "Temperatura": 18.6,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T20:02:14-06:00",
+    "entry_id": 76,
+    "Temperatura": 18.6,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T20:02:31-06:00",
+    "entry_id": 77,
+    "Temperatura": 18.6,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T20:02:47-06:00",
+    "entry_id": 78,
+    "Temperatura": 18.5,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T20:03:04-06:00",
+    "entry_id": 79,
+    "Temperatura": 18.6,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T20:03:21-06:00",
+    "entry_id": 80,
+    "Temperatura": 18.5,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T20:03:38-06:00",
+    "entry_id": 81,
+    "Temperatura": 18.6,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T20:03:55-06:00",
+    "entry_id": 82,
+    "Temperatura": 18.6,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T20:04:11-06:00",
+    "entry_id": 83,
+    "Temperatura": 18.5,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T20:04:28-06:00",
+    "entry_id": 84,
+    "Temperatura": 18.5,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T20:04:45-06:00",
+    "entry_id": 85,
+    "Temperatura": 18.5,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T20:05:02-06:00",
+    "entry_id": 86,
+    "Temperatura": 18.5,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T20:05:19-06:00",
+    "entry_id": 87,
+    "Temperatura": 18.6,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-25T20:05:50-06:00",
+    "entry_id": 88,
+    "Temperatura": 18.6,
+    "Humedad": 89
+  },
+  {
+    "Fecha": "2025-06-26T19:46:11-06:00",
+    "entry_id": 89,
+    "Temperatura": 18.8,
+    "Humedad": 85
+  },
+  {
+    "Fecha": "2025-06-26T19:53:36-06:00",
+    "entry_id": 90,
+    "Temperatura": 18.8,
+    "Humedad": 87
+  },
+  {
+    "Fecha": "2025-06-26T19:53:53-06:00",
+    "entry_id": 91,
+    "Temperatura": 18.7,
+    "Humedad": 87
+  },
+  {
+    "Fecha": "2025-06-26T19:54:09-06:00",
+    "entry_id": 92,
+    "Temperatura": 18.7,
+    "Humedad": 87
+  },
+  {
+    "Fecha": "2025-06-26T19:54:26-06:00",
+    "entry_id": 93,
+    "Temperatura": 18.7,
+    "Humedad": 87
+  },
+  {
+    "Fecha": "2025-06-26T19:54:43-06:00",
+    "entry_id": 94,
+    "Temperatura": 18.7,
+    "Humedad": 87
+  },
+  {
+    "Fecha": "2025-06-26T19:55:00-06:00",
+    "entry_id": 95,
+    "Temperatura": 18.7,
+    "Humedad": 87
+  },
+  {
+    "Fecha": "2025-06-26T19:55:16-06:00",
+    "entry_id": 96,
+    "Temperatura": 18.7,
+    "Humedad": 87
+  },
+  {
+    "Fecha": "2025-06-26T19:55:33-06:00",
+    "entry_id": 97,
+    "Temperatura": 18.7,
+    "Humedad": 87
+  },
+  {
+    "Fecha": "2025-06-26T19:55:50-06:00",
+    "entry_id": 98,
+    "Temperatura": 18.7,
+    "Humedad": 87
+  },
+  {
+    "Fecha": "2025-06-26T19:56:06-06:00",
+    "entry_id": 99,
+    "Temperatura": 18.7,
+    "Humedad": 87
+  },
+  {
+    "Fecha": "2025-06-26T19:56:23-06:00",
+    "entry_id": 100,
+    "Temperatura": 18.7,
+    "Humedad": 87
+  },
+  {
+    "Fecha": "2025-06-26T19:56:40-06:00",
+    "entry_id": 101,
+    "Temperatura": 18.7,
+    "Humedad": 87
+  },
+  {
+    "Fecha": "2025-06-26T19:56:56-06:00",
+    "entry_id": 102,
+    "Temperatura": 18.8,
+    "Humedad": 87
+  },
+  {
+    "Fecha": "2025-06-26T19:57:13-06:00",
+    "entry_id": 103,
+    "Temperatura": 18.7,
+    "Humedad": 87
+  },
+  {
+    "Fecha": "2025-06-26T19:57:30-06:00",
+    "entry_id": 104,
+    "Temperatura": 18.8,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T19:57:46-06:00",
+    "entry_id": 105,
+    "Temperatura": 18.7,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T19:58:03-06:00",
+    "entry_id": 106,
+    "Temperatura": 18.7,
+    "Humedad": 87
+  },
+  {
+    "Fecha": "2025-06-26T19:58:20-06:00",
+    "entry_id": 107,
+    "Temperatura": 18.6,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T19:58:37-06:00",
+    "entry_id": 108,
+    "Temperatura": 18.7,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T19:58:53-06:00",
+    "entry_id": 109,
+    "Temperatura": 18.7,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T19:59:10-06:00",
+    "entry_id": 110,
+    "Temperatura": 18.7,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T19:59:26-06:00",
+    "entry_id": 111,
+    "Temperatura": 18.7,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T19:59:43-06:00",
+    "entry_id": 112,
+    "Temperatura": 18.6,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T20:00:00-06:00",
+    "entry_id": 113,
+    "Temperatura": 18.8,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T20:00:33-06:00",
+    "entry_id": 114,
+    "Temperatura": 18.7,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T20:00:50-06:00",
+    "entry_id": 115,
+    "Temperatura": 18.7,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T20:01:07-06:00",
+    "entry_id": 116,
+    "Temperatura": 18.7,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T20:01:23-06:00",
+    "entry_id": 117,
+    "Temperatura": 18.7,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T20:01:40-06:00",
+    "entry_id": 118,
+    "Temperatura": 18.8,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T20:01:57-06:00",
+    "entry_id": 119,
+    "Temperatura": 18.7,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T20:02:14-06:00",
+    "entry_id": 120,
+    "Temperatura": 18.7,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T20:02:31-06:00",
+    "entry_id": 121,
+    "Temperatura": 18.7,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T20:02:47-06:00",
+    "entry_id": 122,
+    "Temperatura": 18.6,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T20:03:04-06:00",
+    "entry_id": 123,
+    "Temperatura": 18.7,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T20:03:21-06:00",
+    "entry_id": 124,
+    "Temperatura": 18.6,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T20:03:38-06:00",
+    "entry_id": 125,
+    "Temperatura": 18.7,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T20:03:55-06:00",
+    "entry_id": 126,
+    "Temperatura": 18.7,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T20:04:11-06:00",
+    "entry_id": 127,
+    "Temperatura": 18.6,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T20:04:28-06:00",
+    "entry_id": 128,
+    "Temperatura": 18.6,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T20:04:45-06:00",
+    "entry_id": 129,
+    "Temperatura": 18.6,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T20:05:02-06:00",
+    "entry_id": 130,
+    "Temperatura": 18.6,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T20:05:19-06:00",
+    "entry_id": 131,
+    "Temperatura": 18.7,
+    "Humedad": 88
+  },
+  {
+    "Fecha": "2025-06-26T20:05:50-06:00",
+    "entry_id": 132,
+    "Temperatura": 18.7,
+    "Humedad": 88
+  }
+]
