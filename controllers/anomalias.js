@@ -5,14 +5,14 @@ export class AnomaliasController {
     static async getAll(req, res){
         const anomalias = await AnomaliasModel.getAll();
 
-        res.json(anomalias);
+        return res.json(anomalias);
     }
 
     static async getOne(req, res){
         const { variable } = req.params;
         const anomalia = await AnomaliasModel.getAnomaliaByVariable({variable});
         if(anomalia) return res.json(anomalia);
-        res.status(404).json({ error: 'Anomalia no encontrada' });
+        return res.status(404).json({ error: 'Anomalia no encontrada' });
     }
 
     static async update(req, res) {

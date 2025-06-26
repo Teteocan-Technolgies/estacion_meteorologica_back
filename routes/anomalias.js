@@ -6,4 +6,4 @@ export const anomaliaRouter = Router()
 
 anomaliaRouter.get('/', AnomaliasController.getAll)
 anomaliaRouter.get('/:variable', AnomaliasController.getOne)
-anomaliaRouter.patch('/:variable', AnomaliasController.update) 
+anomaliaRouter.patch('/:variable', AnomaliasController.update)

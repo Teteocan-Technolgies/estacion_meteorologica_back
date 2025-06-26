@@ -6,8 +6,8 @@ const app = express();
 app.use(json());
 app.disable('x-powered-by');
 
-app.use('/anomalias', anomaliaRouter);
-app.use('/humedad_temp', temp_humedadRouter)
+app.use('/api/anomalias', anomaliaRouter);
+app.use('/api/humedad_temp', temp_humedadRouter)
 
 const PORT = process.env.PORT ?? 1234;
 

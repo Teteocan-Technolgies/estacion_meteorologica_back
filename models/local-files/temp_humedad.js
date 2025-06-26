@@ -1,6 +1,7 @@
 import { readJSON } from "../../utils/utils.js";
 
 const temp_humedad = readJSON('./data_temp_humedad.json')
+let countData = 1;
 
 export class TempHumedadModel{
     static async getAll(){
@@ -17,5 +18,12 @@ export class TempHumedadModel{
         })
         
         return filteredData
+    }
+
+    static async getOneGroup(){
+        if(countData === 132) countData = 1;
+        const data = temp_humedad.find(data => data.entry_id === countData)
+        countData++;
+        return data
     }
 }
